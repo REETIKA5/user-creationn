@@ -1,0 +1,135 @@
+
+BSA Self-Assessment( 30 % of final marks)
+
+Author Details:
+===============================
+ Full Name: REETIKA SHRESTHA
+ Student Code : 1000117679
+ Submission Date: 26/05/2024
+===============================
+
+
+Self-Assessment Criteria
+-------------------------
+
+Task 1: Creating a User Environment
+====================================
+
+1. Correct Implementation of Script Functionality
+The script accurately processes user data from the CSV file, ensuring creation of users with appropriate usernames and initial passwords. Users are seamlessly integrated into specified groups, and shared folders are established with correct permissions. Additionally, links and aliases are successfully generated for users.
+
+Self-Assessment:
+  Activity                   |  points | completed                                                         | result |
+ *Reading a local file/url   |   5     |                                                                   |        |
+  Self-assessment comments:  |   5     | written users.sh file to adapt this                               | done   |
+==========================================================================================================================
+ *Input Validation           |   5      |
+  Self-assessment comments:  |   5      | ensured that the CSV is in corect format and validated           | done   | 
+==========================================================================================================================
+ *Script interaction         |  3       |                                                                  |        |
+ Self-assessment comments:   |  2       | have used read command to collect input from users               | done   |
+==========================================================================================================================
+*User management             |  20      |
+ Self-assessment comments:   |  17      | handling creating users,setting password,adding users to group   |         |
+                                        | created shared folders and set up aliases                        | done    |
+==========================================================================================================================
+*group management            | 5        |                                                                  |         |
+ Self-assessment comments    | 3        | have grouped according to csv file                               | done    |
+==========================================================================================================================
+*shared folder configuration | 15       |                                                                  |         |
+Self-assessment comments     | 10       | have configured the folders                                      |         |
+==========================================================================================================================
+
+
+TASK 2:BACKUP SCRIPT
+=====================
+This script compresses a given foldr and uploads in a remote location.
+------------------------------------------------------------------------
+
+Self-assessment :
+ Activity                   |  points | completed                                                           | result |
+*Link creation              |   3
+Self-assessment comments:   |   3     | created                                                             | done   | 
+===========================================================================================================================
+*alias management           |   5     |                                                                     |         |
+Self-assessment comments:   |   5     |added alias to correct configuration                                 | done    |
+===========================================================================================================================
+*Handling script input      |   5     |                                                                     |          |
+Self-assessment comments:   |   5     | ensured script is correct                                           | done     |
+===========================================================================================================================
+*create compressed archive  |   5     |                                                                     |          |
+Self-assessment comments:   |   2     | tried my best                                                       |          |
+===========================================================================================================================
+*SCP transfer               |    5    |                                                                     |         |
+Self-assessment comments:   |    3    | used SCP for secured file transfer                                  | done    |
+===========================================================================================================================
+*Script output              |    4    |                                                                     |         |
+Self-assessment comments:   |    2    | used to have standard output                                        | done    |
+============================================================================================================================
+
+
+
+FORMAL ASPECTS
+===============
+Activity                   |  points | completed                                                           | result |
+*Documentation             |   8     |
+Self-assessment comments:  |   8     | created                                                             | done   | 
+===========================================================================================================================
+*Code modularity           |   5     |                                                                     |         |
+Self-assessment comments:  |   5     |coded with the help of lecture notes and online                      | done    |
+===========================================================================================================================
+*code commenting            |   3     |                                                                     |          |
+Self-assessment comments:   |   3     | ensured every code has comments                                     | done     |
+===========================================================================================================================
+*GIt usage                  |   4     |                                                                     |          |
+Self-assessment comments:   |   4     | tried my best                                                       |  done    |
+===========================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
